@@ -1,3 +1,14 @@
-Este projeto apresenta uma página HTML com informações sobre o filme A Cinco Passos de Você.
-A página inclui a capa do filme, dados como ano de produção, direção, duração, classificação, gênero e país de origem, além de uma breve sinopse.
-Também há um link para mais detalhes sobre o filme no site Papo de Cinema.
+# 🎬 A Cinco Passos de Você  
+
+Este projeto apresenta uma página HTML dedicada ao filme A Cinco Passos de Você.  
+
+## 📄 Sobre o projeto  
+A página exibe:  
+- 📷 Capa do filme  
+- 📅 Ano de produção
+- 🎥 Direção  
+- ⏱ Duração
+- 🔞 Classificação
+- 🎭 Gênero
+- 🌎 País de origem
+- 📝 Sinopse
